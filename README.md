@@ -13,7 +13,7 @@
 | <img src="Resources/cat.jpg" alt="Cat" height="64" width="64">     | Bo Pang   | pang.bo3@northeastern.edu |
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64">     | Steven Hu | hu.ste@northeastern.edu   |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo     | hippo@example.com         |
-| <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Alyssa Nuanxin Jin     | shark@example.com         |
+| <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Alyssa Nuanxin Jin     | jin.nu@northeastern.edu         |
 
 
 
