@@ -2,15 +2,15 @@
 
 
 - This is the landing page of your team.
-- **Team Name:** [Place holder for a team name]
+- **Team Name:** Avec le Bon Chat
 - **Team Logo:** [Place holder for a team logo]
-- **Team Description:** [Place holder for a team description]
+- **Team Description:** MCGA. Make coding great again. 
 
 
 ## Team Members
 | Image | Name | Email |
 |-------|------|-------|
-| <img src="Resources/cat.png" alt="Cat" height="64" width="64"> | Cat | cat@example.com |
+| <img src="Resources/cat.jpg" alt="Cat" height="64" width="64"> | Bo Pang|pang.bo3@northeastern.edu
 | <img src="Resources/dog.png" alt="Dog" height="64" width="64"> | Dog | dog@example.com |
 | <img src="Resources/hippo.png" alt="Hippo" height="64" width="64"> | Hippo | hippo@example.com |
 | <img src="Resources/shark.png" alt="Shark" height="64" width="64"> | Shark | shark@example.com |
