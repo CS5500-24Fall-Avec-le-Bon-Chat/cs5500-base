@@ -10,7 +10,7 @@ Week 1 September 09
 - [Team Member 1]
 - [Team Member 2]
 - Cong (Cathy) Fu
-- [Team Member 4]
+- Alyssa (Nuanxin) Jin
 
 
 ---
@@ -49,7 +49,7 @@ Identify actionable steps that can be taken to improve future projects.
 ## Individual Self-Assessments
 ### [Team Member 1]
 - **Achievements and Contributions:**
-  -
+  - 
 - **Challenges Faced:**
   -
 - **Areas for Improvement:**
@@ -82,13 +82,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
-  -
+  - The basic idea of how to work as a team
+  - How to setup a typescript file and how to use debug in VScode
 - **Challenges Faced:**
-  -
+  - Quickly and comprehensively reading and understanding code
 - **Areas for Improvement:**
-  -
+  - Teamwork skill
 - **Feedback and Suggestions:**
-  -
+  - The second class could be more intense
 
 
 
