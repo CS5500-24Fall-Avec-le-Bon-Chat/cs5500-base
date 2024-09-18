@@ -7,8 +7,8 @@ Avec le Bon Chat
 Week 1 September 09
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
+- Steven Hu
+- Bo Pang
 - Cong (Cathy) Fu
 - Alyssa (Nuanxin) Jin
 
