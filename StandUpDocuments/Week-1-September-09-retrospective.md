@@ -51,11 +51,11 @@ Identify actionable steps that can be taken to improve future projects.
 - **Achievements and Contributions:**
   - Founded github organization and repository 
 - **Challenges Faced:**
-  - 
+  - Getting familiar with the team work and the project
 - **Areas for Improvement:**
-  -
+  - Teamwork skill
 - **Feedback and Suggestions:**
-  -
+  - Nothing
 
 ### Bo Pang
 - **Achievements and Contributions:**

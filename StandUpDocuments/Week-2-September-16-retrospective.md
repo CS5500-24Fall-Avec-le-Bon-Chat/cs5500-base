@@ -46,12 +46,14 @@ Identify actionable steps that can be taken to improve future projects.
 ### Steven Hu
 - **Achievements and Contributions:**
   - Teach teammates on Typescript Implementation 
+  - Set up documents for the whole team
+  - Finished design pattern analysis on backend side
 - **Challenges Faced:**
-  -
+  - Understanding some specific code design in backend
 - **Areas for Improvement:**
-  -
+  - Getting to know more design patterns
 - **Feedback and Suggestions:**
-  -
+  - Nothing
 
 ### Bo Pang
 - **Achievements and Contributions:**
