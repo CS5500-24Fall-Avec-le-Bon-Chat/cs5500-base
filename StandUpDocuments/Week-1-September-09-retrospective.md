@@ -32,7 +32,7 @@ List the things that went well during the project.
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
+- 
 -
 -
 
@@ -40,32 +40,32 @@ List the areas where there is room for improvement.
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
+1. Founde github organization
+2. Learned how typescript and node.js works
 3.
 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Steven Hu
 - **Achievements and Contributions:**
-  - 
+  - Founded github organization and repository 
 - **Challenges Faced:**
-  -
+  - 
 - **Areas for Improvement:**
   -
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 2]
+### Bo Pang
 - **Achievements and Contributions:**
-  -
+  - Null
 - **Challenges Faced:**
-  -
+  - Not farmiliar with Typescript
 - **Areas for Improvement:**
-  -
+  - More learning on Typescript
 - **Feedback and Suggestions:**
-  -
+  - Null
 
 ### Cathy Fu
 - **Achievements and Contributions:**
@@ -80,7 +80,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - So far so good
 
-### [Team Member 4]
+### Nuanxin Jin
 - **Achievements and Contributions:**
   - The basic idea of how to work as a team
   - How to setup a typescript file and how to use debug in VScode
