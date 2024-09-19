@@ -70,13 +70,15 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - Done learning basic design pattern for front end
+  - Finished the first round of learning the code base of calc-sheet
 - **Challenges Faced:**
-  -
+  - my knowledge of backend and the interaction between frontend and backend is not adequate
 - **Areas for Improvement:**
-  -
+  - Still need to review web dev knowledge
 - **Feedback and Suggestions:**
-  -
+  - start everything early!
+  - trust my teammates and seek help
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
