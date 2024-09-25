@@ -82,13 +82,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Have a better view of a full-stack project
+  - Understand the MVC model
 - **Challenges Faced:**
-  -
+  - Unfamiliar with some patterns
 - **Areas for Improvement:**
-  -
+  - The application part: using the same logic into my projects
 - **Feedback and Suggestions:**
-  -
+  - Reading others code is quite fun. Perhaps in the future, we can do more practice like that.
 
 
 ---
