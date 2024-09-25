@@ -48,13 +48,15 @@ Identify actionable steps that can be taken to improve future projects.
 ## Individual Self-Assessments
 ### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Analyzed backend code and finished the analysis report for the whole backend.
+  - Discussed with frontend subteam about the design pattern and interaction between frontend and backend.
 - **Challenges Faced:**
-  -
+  - Distinguish the design pattern used in the code
+  - Understand the scope of design pattern (applied in the whole project or only frontend or backend).
 - **Areas for Improvement:**
-  -
+  - Practical use of design pattern.
 - **Feedback and Suggestions:**
-  -
+  - Read more code and learn the knowledge foundation by practicing.
 
 ### Bo Pang
 - **Achievements and Contributions:**
