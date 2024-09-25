@@ -70,13 +70,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - contributed to the frontend of homework 1, had a one hour discussion with our teammates
+  - also generated some ideas about how to help BC Cancer Foundation
 - **Challenges Faced:**
-  -
+  - I have three courses this semester so everyday I am very busy. I feel worried about the MVP product for BC Cancer Foundation.
 - **Areas for Improvement:**
-  -
+  - I should connect more with my teammates.
 - **Feedback and Suggestions:**
-  -
+  - Learn more about TypeScript and Testing with Jest
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
