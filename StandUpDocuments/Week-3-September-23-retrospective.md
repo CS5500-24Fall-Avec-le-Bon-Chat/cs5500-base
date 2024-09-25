@@ -11,6 +11,7 @@ Week 3 September 23
 - Steven Hu
 - Nuanxin Jin
 - Bo Pang
+- Siyue Wang
 
 ---
 
@@ -76,6 +77,16 @@ Identify actionable steps that can be taken to improve future projects.
   -
 
 ### Nuanxin Jin
+- **Achievements and Contributions:**
+  -
+- **Challenges Faced:**
+  -
+- **Areas for Improvement:**
+  -
+- **Feedback and Suggestions:**
+  -
+
+### Siyue Wang
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
