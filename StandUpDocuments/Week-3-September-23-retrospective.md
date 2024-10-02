@@ -91,13 +91,15 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Siyue Wang
 - **Achievements and Contributions:**
-  -
+  - Caught up in the Calc Sheet Project.
+  - Learned about the history behind Truth and Reconciliation day
 - **Challenges Faced:**
-  -
+  - Time management since workload is increasing as the semester progresses. 
 - **Areas for Improvement:**
-  -
+  - Reading typescript.
+  - Staying on top of my assignments.
 - **Feedback and Suggestions:**
-  -
+  - Feeling good about this course and looking forward to the BC cancer project. 
 
 ---
 
