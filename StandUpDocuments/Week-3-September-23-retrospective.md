@@ -60,13 +60,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Bo Pang
 - **Achievements and Contributions:**
-  -
+  - Team building with members on Reconciliation Day.
+  - Gained more knowledge on design patterns
 - **Challenges Faced:**
-  -
+  - Recognizing design patterns based on read project
 - **Areas for Improvement:**
-  -
+  - Read more code
 - **Feedback and Suggestions:**
-  -
+  - More time to learning
 
 ### Cathy Fu
 - **Achievements and Contributions:**
