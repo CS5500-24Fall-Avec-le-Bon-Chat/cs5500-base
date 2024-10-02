@@ -81,13 +81,13 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - learn more about history and software
 - **Challenges Faced:**
-  -
+  - time management
 - **Areas for Improvement:**
-  -
+  - team work
 - **Feedback and Suggestions:**
-  -
+  - so far so good
 
 ### Siyue Wang
 - **Achievements and Contributions:**
