@@ -60,15 +60,18 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - So far so good, my group is very supportive and chill. I like this.
 
-### [Team Member 2]
+### Bo Pang
 - **Achievements and Contributions:**
-  -
+  - Edit the google form for brainstorm part, provided options for task management systems; 
+  - Learned code base from Juancho; 
+  - Learned testing in typescript; 
 - **Challenges Faced:**
-  -
+  - Mock scenarios in typescript; 
+  - Generate test cases in typescript; 
 - **Areas for Improvement:**
-  -
+  - Testing
 - **Feedback and Suggestions:**
-  -
+  - Spend more time on testing
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
