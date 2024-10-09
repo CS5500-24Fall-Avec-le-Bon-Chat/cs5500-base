@@ -84,15 +84,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Can we have more assignments similar to assignment 1 (reading codes)? That part is entertaining.
 
-### [Team Member 4]
+### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Contributed ideas for the group project
+  - Read and understood the code from Juancho
 - **Challenges Faced:**
-  -
+  - High coverage testing
 - **Areas for Improvement:**
-  -
+  - More practice on testing
 - **Feedback and Suggestions:**
-  -
+  - Nothing
 
 ### [Team Member 5]
 - **Achievements and Contributions:**
