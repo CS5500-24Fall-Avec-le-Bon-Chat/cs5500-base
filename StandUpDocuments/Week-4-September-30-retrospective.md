@@ -95,15 +95,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Nothing
 
-### [Team Member 5]
+### [Siyue Wang]
 - **Achievements and Contributions:**
-  -
+  - Brainstormed about the presentation
+  - Understood the code provided by Juancho
 - **Challenges Faced:**
-  -
+  - Read code and writing tests for full coverage
 - **Areas for Improvement:**
-  -
+  - TypeScript tests
 - **Feedback and Suggestions:**
-  -
+  - Time management and communication among team members.
 
 ---
 
