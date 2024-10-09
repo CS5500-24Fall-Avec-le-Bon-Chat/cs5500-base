@@ -73,15 +73,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Spend more time on testing
 
-### [Team Member 3]
+### [Nuanxin Jin]
 - **Achievements and Contributions:**
-  -
+  - Handed on debugging project
+  - Got a basic idea of Wireframe
 - **Challenges Faced:**
-  -
+  - Still not very familiar with debugging react
 - **Areas for Improvement:**
-  -
+  - Needs more discussion about our presentation
 - **Feedback and Suggestions:**
-  -
+  - Can we have more assignments similar to assignment 1 (reading codes)? That part is entertaining.
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
