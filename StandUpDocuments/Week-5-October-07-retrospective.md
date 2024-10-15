@@ -1,7 +1,7 @@
-# Retrospective Document Template
+# Week 5
 
 ## Team Name
-[Insert Team Name Here]
+Avec le bon Chat!
 
 ## Date
 Week 5 October 07
@@ -45,7 +45,7 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Cathy Fu
 - **Achievements and Contributions:**
   - Designed two pages of the wire frame
   - discussed the design decision with teammates
