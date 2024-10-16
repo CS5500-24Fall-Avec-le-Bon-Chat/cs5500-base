@@ -80,13 +80,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Alex Wang
 - **Achievements and Contributions:**
-  -
+  - Had a clearer unnderstanding about the projet
+  - drafted a powerpoint for the presentation
 - **Challenges Faced:**
-  -
+  - No challenges for this week
 - **Areas for Improvement:**
-  -
+  - Should get more familiar with technology we will use in the upcoming project
 - **Feedback and Suggestions:**
-  -
+  - None this week
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
