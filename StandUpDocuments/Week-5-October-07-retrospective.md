@@ -89,13 +89,13 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Have a clear mind about wire frame
 - **Challenges Faced:**
-  -
+  - How to present our idea concisely and attractively
 - **Areas for Improvement:**
-  -
+  - Our presentation
 - **Feedback and Suggestions:**
-  -
+  - So far so good
 
 ---
 
