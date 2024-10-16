@@ -1,51 +1,62 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+Avec La Bon Chat 
 
 ## Date
 Week 6 October 14
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Bo Pang
+- Cathy Fu
+- Steven Hu
+- Alex Wang
+- Nuanxin Jin
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+- Teamwork on the current BC Cancer Project with balanced and efficient job devision. 
 
 ---
 
 ## What Went Well
-List the things that went well during the project.
--
--
--
-
+- Good prove of concept.
+- User story completed. 
+- Initial design of wire frame. 
+- Deep descussion over data. 
+- Balanced skill set over team members. 
 ---
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
--
+- More direct and realtime conversation. 
 -
 
 ---
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
-
+1. Demonstrate the POC
+2. Get feed back from customer
+3. Improve wire frame based on the feedback
+4. Starting working on features based on the points assigning. 
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Bo Pang
+- **Achievements and Contributions:**
+  - Went through the dataset and made ERD based on it.
+  - Made the wire frame for event log.
+  - Had meeting with instructor about data manipulation and display. 
+- **Challenges Faced:**
+  - Test cases over typescript
+- **Areas for Improvement:**
+  - Typescript testing 
+- **Feedback and Suggestions:**
+  - Spend more time on code reading. 
+
+### Steven Hu
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -55,7 +66,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 2]
+### Cathy Fu
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -65,7 +76,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 3]
+### Nuanxin Jin
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -75,17 +86,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 4]
-- **Achievements and Contributions:**
-  -
-- **Challenges Faced:**
-  -
-- **Areas for Improvement:**
-  -
-- **Feedback and Suggestions:**
-  -
-
-### [Team Member 5]
+### Alex Wang
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -100,11 +101,13 @@ Identify actionable steps that can be taken to improve future projects.
 ## Overall Team Assessment
 Reflect on the team’s performance as a whole.
 - **Team Strengths:**
-  -
+  - Good cooperation
+  - Members are respoinsible for their job
+  - Good big picture over whole problem 
 - **Areas for Improvement:**
-  -
+  - So far so good 
 - **Suggestions for Future Projects:**
-  -
+  - Work on coding part after the design is ready 
 
 ---
 
