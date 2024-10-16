@@ -69,13 +69,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Met up with teammates and discussed the project
+  - Designing APIs for the project 
 - **Challenges Faced:**
-  -
+  - None
 - **Areas for Improvement:**
-  -
+  - Database and API design
 - **Feedback and Suggestions:**
-  -
+  - None
 
 ### Alex Wang
 - **Achievements and Contributions:**
