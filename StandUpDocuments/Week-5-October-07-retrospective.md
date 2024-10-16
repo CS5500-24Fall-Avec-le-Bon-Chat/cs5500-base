@@ -8,15 +8,15 @@ Week 5 October 07
 
 ## Participants
 - Cathy Fu
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Bo Pang
+- Steven Hu
+- Alex Wang
+- Nuanxin Jin
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+Teamwork on the current BC Cancer Project with balanced and efficient job devision.
 
 ---
 
@@ -24,8 +24,7 @@ Briefly describe the purpose of this retrospective and what you aim to achieve.
 List the things that went well during the project.
 - We had fun designing the wire frame for the final project.
 - We had fun with the long weekend (seperately <3 )
--
-
+- Good prove of concept.
 ---
 
 ## What Could Be Improved
@@ -56,7 +55,19 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - I hope someone in the frontend team can create the "big picture" of the project so we can only focus on a small part.
 
-### [Team Member 2]
+### Bo Pang
+- **Achievements and Contributions:**
+  - Went through the dataset and made ERD based on it.
+  - Made the wire frame for event log.
+  - Had meeting with instructor about data manipulation and display. 
+- **Challenges Faced:**
+  - Test cases over typescript
+- **Areas for Improvement:**
+  - Typescript testing 
+- **Feedback and Suggestions:**
+  - Spend more time on code reading. 
+
+### Steven Hu
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -66,7 +77,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 3]
+### Alex Wang
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
@@ -76,17 +87,7 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 4]
-- **Achievements and Contributions:**
-  -
-- **Challenges Faced:**
-  -
-- **Areas for Improvement:**
-  -
-- **Feedback and Suggestions:**
-  -
-
-### [Team Member 5]
+### Nuanxin Jin
 - **Achievements and Contributions:**
   -
 - **Challenges Faced:**
