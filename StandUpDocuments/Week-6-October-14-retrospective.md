@@ -46,9 +46,9 @@ Identify actionable steps that can be taken to improve future projects.
 ## Individual Self-Assessments
 ### Bo Pang
 - **Achievements and Contributions:**
-  - Went through the dataset and made ERD based on it.
+  - Presentation prepration 
   - Made the wire frame for event log.
-  - Had meeting with instructor about data manipulation and display. 
+  - Had meeting with instructor about presentation prep. 
 - **Challenges Faced:**
   - Test cases over typescript
 - **Areas for Improvement:**
