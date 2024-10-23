@@ -58,13 +58,14 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Finished part of the presentation slides
+  - Presented in event space
 - **Challenges Faced:**
-  -
+  - Failed to make my part of the presentation concise and clear
 - **Areas for Improvement:**
-  -
+  - Presentation skills
 - **Feedback and Suggestions:**
-  -
+  - Improve presentation skills by more listening and practicing
 
 ### Cathy Fu
 - **Achievements and Contributions:**
