@@ -68,13 +68,15 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - Created Design for the wireframe
+  - Presented in event space!
 - **Challenges Faced:**
-  -
+  - Need to learn more about the backend
+  - Need to think about revising the design
 - **Areas for Improvement:**
-  -
+  - Next time bring a better design that has both event adding and donor adding section
 - **Feedback and Suggestions:**
-  -
+  - Keep the good work!
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
