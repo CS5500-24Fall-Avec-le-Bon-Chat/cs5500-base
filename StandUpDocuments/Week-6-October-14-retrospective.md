@@ -80,13 +80,13 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Learned how to present a wireframe phototype better
 - **Challenges Faced:**
-  -
+  - Learned a new framework
 - **Areas for Improvement:**
-  -
+  - Presentation skills
 - **Feedback and Suggestions:**
-  -
+  - Keep things simple and attractive
 
 ### Alex Wang
 - **Achievements and Contributions:**
