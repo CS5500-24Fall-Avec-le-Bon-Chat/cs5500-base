@@ -91,13 +91,13 @@ Identify actionable steps that can be taken to improve future projects.
 
 ### Alex Wang
 - **Achievements and Contributions:**
-  -
+  - Finished the presentation with my team
 - **Challenges Faced:**
-  -
+  - Public speaking
 - **Areas for Improvement:**
-  -
+  - Must be more organized to complete this project on time
 - **Feedback and Suggestions:**
-  -
+  - Looking forward to coding
 
 ---
 
