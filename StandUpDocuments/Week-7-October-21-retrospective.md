@@ -1,28 +1,27 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
-
+Avec le Bon Chat!
 ## Date
 Week 7 October 21
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Bo Pang
+- Cathy Fu
+- Steven Hu
+- Alex Wang
+- Nuanxin Jin
 
 ---
 
 ## Overview
-Briefly describe the purpose of this retrospective and what you aim to achieve.
+Started the final product for BC Cancer Foundation
 
 ---
 
 ## What Went Well
 List the things that went well during the project.
--
+- We had a good start from Steven's code base
 -
 -
 
@@ -30,7 +29,7 @@ List the things that went well during the project.
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
+- More meeting time would be necessary
 -
 -
 
@@ -38,9 +37,9 @@ List the areas where there is room for improvement.
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
-3.
+1. Decide whether we need to add a backend
+2. Assign the specific tasks for every team member
+3. Set up a deadline for ourselves to complete the MVP , meet and discuss
 
 ---
 
@@ -55,15 +54,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 2]
+### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - Done my panel review for 7980, now I can fully focus on 5500!
+  - Studies the code base , ready to add components
 - **Challenges Faced:**
-  -
+  - there are some concerns about the backend
 - **Areas for Improvement:**
-  -
+  - need to comminucate with my teammates and the prof. more often
 - **Feedback and Suggestions:**
-  -
+  - I hope we adpot a "one feature per branch" method when committing to the repo.
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
@@ -100,11 +100,13 @@ Identify actionable steps that can be taken to improve future projects.
 ## Overall Team Assessment
 Reflect on the team’s performance as a whole.
 - **Team Strengths:**
-  -
+  - Good cooperation
+  - Members are respoinsible for their job
+  - Good big picture over whole problem
 - **Areas for Improvement:**
-  -
+  - So far so good
 - **Suggestions for Future Projects:**
-  -
+  - Let's finish this project early!
 
 ---
 
