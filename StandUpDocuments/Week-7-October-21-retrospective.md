@@ -22,7 +22,7 @@ Started the final product for BC Cancer Foundation
 ## What Went Well
 List the things that went well during the project.
 - We had a good start from Steven's code base
--
+- 
 -
 
 ---
@@ -44,15 +44,17 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Bo Pang
 - **Achievements and Contributions:**
-  -
+  - Started working on the REST homework
+  - Started working on the BC Cancer projet
+    
 - **Challenges Faced:**
-  -
+  - Debug in a new language
 - **Areas for Improvement:**
-  -
+  - More detail on prompting 
 - **Feedback and Suggestions:**
-  -
+  - More time to work on BC Cancer project
 
 ### Cathy Fu
 - **Achievements and Contributions:**
