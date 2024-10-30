@@ -88,15 +88,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - None
 
-### [Team Member 5]
+### [Alex Wang]
 - **Achievements and Contributions:**
-  -
+  - Start on BC cancer project
 - **Challenges Faced:**
-  -
+  - When translating code into different languages, difficulities in debugging
 - **Areas for Improvement:**
-  -
+  - Read code
 - **Feedback and Suggestions:**
-  -
+  - So far so good
 
 ---
 
