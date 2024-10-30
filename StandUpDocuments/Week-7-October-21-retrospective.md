@@ -67,15 +67,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - I hope we adpot a "one feature per branch" method when committing to the repo.
 
-### [Team Member 3]
+### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Successfully used Copilot to translate the file into different languages.
 - **Challenges Faced:**
-  -
+  - How to ask copilot questions to get what I need
 - **Areas for Improvement:**
-  -
+  - The ability to interact with AI
 - **Feedback and Suggestions:**
-  -
+  - It's fun to do so 
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
