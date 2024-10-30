@@ -77,15 +77,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - It's fun to do so 
 
-### [Team Member 4]
+### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Set up the project and started the front end
+  - Finished the REST homework in Rust
 - **Challenges Faced:**
-  -
+  - Task distribution and time management
 - **Areas for Improvement:**
-  -
+  - More time to work on the project
 - **Feedback and Suggestions:**
-  -
+  - None
 
 ### [Team Member 5]
 - **Achievements and Contributions:**
