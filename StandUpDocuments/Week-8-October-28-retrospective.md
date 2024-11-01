@@ -1,17 +1,17 @@
 # Retrospective Document Template
 
 ## Team Name
-[Insert Team Name Here]
+Avec le Bon Chat
 
 ## Date
 Week 8 October 28
 
 ## Participants
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- Bo Pang
+- Cathy Fu
+- Steven Hu
+- Alex Wang
+- Nuanxin Jin
 
 ---
 
@@ -22,15 +22,15 @@ Briefly describe the purpose of this retrospective and what you aim to achieve.
 
 ## What Went Well
 List the things that went well during the project.
--
--
+- We had meetings about assigning final project work to each group member
+- We learned about RESTful backend in multiple languages
 -
 
 ---
 
 ## What Could Be Improved
 List the areas where there is room for improvement.
--
+- Everything looks good
 -
 -
 
@@ -38,8 +38,8 @@ List the areas where there is room for improvement.
 
 ## Action Items
 Identify actionable steps that can be taken to improve future projects.
-1.
-2.
+1. Let's finish the MVP in one week!
+2. Let's prepare for the Nov. 18 presentation!
 3.
 
 ---
@@ -55,15 +55,18 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 2]
+### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - Had fun with learning Ruby and C# (the RESTful backend)
+  - Learned to use pnpm, next.js and shadcn
+  - Worked on the final project
 - **Challenges Faced:**
-  -
+  - Without gen AI, I am not confident to code ...
 - **Areas for Improvement:**
-  -
+  - Write better comments and commit message
+  - Understand best practices of SWE
 - **Feedback and Suggestions:**
-  -
+  - So far so good
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
