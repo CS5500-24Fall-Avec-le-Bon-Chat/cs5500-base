@@ -10,7 +10,7 @@
 
 - D. Synchronous programming is always faster than asynchronous programming.
 
-**Answer:** X
+**Answer:** C
 
 ### 2. In the context of JavaScript, which of the following was the first approach to handling asynchronous operations?
 
@@ -22,7 +22,7 @@
 
 - D. Generators
 
-**Answer:** X
+**Answer:** C
 
 ### 3. What is "callback hell" in JavaScript?
 
@@ -34,7 +34,7 @@
 
 - D. A security vulnerability related to callbacks
 
-**Answer:** X
+**Answer:** B
 
 ### 4. Which of the following methods in JavaScript returns a promise that resolves when all of the input promises have been fulfilled?
 
@@ -46,7 +46,7 @@
 
 - D. Promise.resolve()
 
-**Answer:** X
+**Answer:** C
 
 ### 5. What are the possible states of a JavaScript Promise?
 
@@ -58,7 +58,7 @@
 
 - D. Initialized, Running, Completed
 
-**Answer:** X
+**Answer:** A
 
 ### 6. In JavaScript, which of the following keywords is used to pause the execution of an async function until a promise is settled?
 
@@ -70,7 +70,7 @@
 
 - D. await
 
-**Answer:** X
+**Answer:** D
 
 ### 7. Which of the following is an advantage of using async/await over Promises with .then() and .catch()?
 
@@ -82,7 +82,7 @@
 
 - D. Async/await does not rely on the event loop
 
-**Answer:** X
+**Answer:** A
 
 ### 8. When combining multiple Promises using Promise.all(), which of the following is true?
 
@@ -94,7 +94,7 @@
 
 - D. Both B and C
 
-**Answer:** X
+**Answer:** D
 
 ### 9. In the context of the eCommerce system example, which functions would benefit from being executed asynchronously?
 
@@ -106,7 +106,7 @@
 
 - D. All of the above
 
-**Answer:** X
+**Answer:** D
 
 ### 10. What does the fetch() function in JavaScript return?
 
@@ -118,7 +118,7 @@
 
 - D. All of the above
 
-**Answer:** X
+**Answer:** B
 
 ### 11. Which of the following methods is used to handle errors in a Promise chain?
 
@@ -130,7 +130,7 @@
 
 - D. throw()
 
-**Answer:** X
+**Answer:** B
 
 ### 12. Which statement is true about async functions in JavaScript?
 
@@ -142,7 +142,7 @@
 
 - D. All of the above
 
-**Answer:** X
+**Answer:** B
 
 ### 13. In promise terminology, when a promise is neither fulfilled nor rejected, it is said to be in which state?
 
@@ -154,7 +154,7 @@
 
 - D. Inactive
 
-**Answer:** X
+**Answer:** B
 
 ### 14. Which of the following statements about Promise.any() is true?
 
@@ -166,7 +166,7 @@
 
 - D. All of the above
 
-**Answer:** X
+**Answer:** D
 
 ### 15. Which of the following statements about async functions is true?
 
@@ -178,4 +178,4 @@
 
 - D. All of the above
 
-**Answer:** X
+**Answer:** D
