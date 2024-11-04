@@ -68,15 +68,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - So far so good
 
-### [Team Member 3]
+### Bo Pang
 - **Achievements and Contributions:**
-  -
+  - Start working on projecgt 
 - **Challenges Faced:**
-  -
+  - Coding and debug 
 - **Areas for Improvement:**
-  -
+  - Debug 
 - **Feedback and Suggestions:**
-  -
+  - More time to code 
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
