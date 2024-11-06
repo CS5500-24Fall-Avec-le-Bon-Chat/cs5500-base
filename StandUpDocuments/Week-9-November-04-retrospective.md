@@ -56,15 +56,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - More time on practice 
 
-### [Team Member 2]
+### Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Learned Promise and await
 - **Challenges Faced:**
-  -
+  - Reading and applying async functions
 - **Areas for Improvement:**
-  -
+  - Utilizing copilot more efficiently
 - **Feedback and Suggestions:**
-  -
+  - More practice
 
 ### [Team Member 3]
 - **Achievements and Contributions:**
