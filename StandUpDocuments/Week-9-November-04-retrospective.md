@@ -86,15 +86,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   -
 
-### [Team Member 5]
+### Alex Wang
 - **Achievements and Contributions:**
-  -
+  - Learned about Async functions
+  - Worked on one feature of the project
 - **Challenges Faced:**
-  -
+  - Reading code
 - **Areas for Improvement:**
-  -
+  - UI design
 - **Feedback and Suggestions:**
-  -
+  - None 
 
 ---
 
