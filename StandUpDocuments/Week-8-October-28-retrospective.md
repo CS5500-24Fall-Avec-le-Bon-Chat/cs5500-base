@@ -45,15 +45,15 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Met with the team to discuss the work distribution for the final project
 - **Challenges Faced:**
-  -
+  - No challenge for this week
 - **Areas for Improvement:**
-  -
+  - No area for improvement
 - **Feedback and Suggestions:**
-  -
+  - So far so good
 
 ### Cathy Fu
 - **Achievements and Contributions:**
