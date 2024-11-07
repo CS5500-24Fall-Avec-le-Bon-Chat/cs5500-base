@@ -105,11 +105,12 @@ Identify actionable steps that can be taken to improve future projects.
 ## Overall Team Assessment
 Reflect on the team’s performance as a whole.
 - **Team Strengths:**
-  -
+  - Cooperate well
+  - Skillset diversified
 - **Areas for Improvement:**
-  -
+  - More design thinking
 - **Suggestions for Future Projects:**
-  -
+  - Make desicions faster
 
 ---
 
