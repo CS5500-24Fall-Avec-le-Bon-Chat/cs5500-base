@@ -66,15 +66,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - More practice
 
-### [Team Member 3]
+### Cathy Fu
 - **Achievements and Contributions:**
-  -
+  - Working on the front end of the final product
+  - Thinking about accessibility, reliability and security about this product
 - **Challenges Faced:**
-  -
+  - None
 - **Areas for Improvement:**
-  -
+  - Should learn more about databases and backend best practices
 - **Feedback and Suggestions:**
-  -
+  - Let's build a backend!
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
