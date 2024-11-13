@@ -77,15 +77,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Let's build a backend!
 
-### [Team Member 4]
+### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Met with the team for MVP presentation
+  - Help teammates for technical priblems
 - **Challenges Faced:**
-  -
+  - None
 - **Areas for Improvement:**
-  -
+  - More communication
 - **Feedback and Suggestions:**
-  -
+  - None
 
 ### Alex Wang
 - **Achievements and Contributions:**
