@@ -10,7 +10,7 @@ Week 10 November 11
 - Bo Pang
 - Cathy Fu
 - Alyssa Nuanxin Jin
-- [Team Member 4]
+- Steven Hu
 - [Team Member 5]
 
 ---
@@ -77,15 +77,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Very good
 
-### [Team Member 4]
+### Steven Hu
 - **Achievements and Contributions:**
-  -
+  - Fixed some bugs and added features for the project
+  - Presented demo part in the presentation
 - **Challenges Faced:**
-  -
+  - UI design
 - **Areas for Improvement:**
-  -
+  - None
 - **Feedback and Suggestions:**
-  -
+  - None
 
 ### [Team Member 5]
 - **Achievements and Contributions:**
