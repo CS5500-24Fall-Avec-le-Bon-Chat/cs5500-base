@@ -7,7 +7,7 @@ Avec le Bon Chat
 Week 10 November 11
 
 ## Participants
-- [Team Member 1]
+- Bo Pang
 - Cathy Fu
 - Alyssa Nuanxin Jin
 - [Team Member 4]
@@ -45,15 +45,16 @@ Identify actionable steps that can be taken to improve future projects.
 ---
 
 ## Individual Self-Assessments
-### [Team Member 1]
+### Bo Pang
 - **Achievements and Contributions:**
-  -
+  -Presentation
+  -Draft of fundraiser page
 - **Challenges Faced:**
-  -
+  -Store everything into local storage
 - **Areas for Improvement:**
-  -
+  -Put more efforts in react tech stack 
 - **Feedback and Suggestions:**
-  -
+  -So fat so good 
 
 ### Cathy Fu
 - **Achievements and Contributions:**
