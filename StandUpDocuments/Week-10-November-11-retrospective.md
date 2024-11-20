@@ -11,7 +11,7 @@ Week 10 November 11
 - Cathy Fu
 - Alyssa Nuanxin Jin
 - Steven Hu
-- [Team Member 5]
+- Alex Wang
 
 ---
 
