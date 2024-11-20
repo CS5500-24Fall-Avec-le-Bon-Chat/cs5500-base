@@ -88,15 +88,16 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - None
 
-### [Team Member 5]
+### Alex Wang
 - **Achievements and Contributions:**
-  -
+  - Finished the presentation
 - **Challenges Faced:**
-  -
+  - Had some bugs I could not fix
 - **Areas for Improvement:**
-  -
+  - UI design
+  - backend development
 - **Feedback and Suggestions:**
-  -
+  - Great presentations by all!
 
 ---
 
