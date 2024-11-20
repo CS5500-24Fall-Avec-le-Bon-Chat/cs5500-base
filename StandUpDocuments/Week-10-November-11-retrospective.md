@@ -9,7 +9,7 @@ Week 10 November 11
 ## Participants
 - [Team Member 1]
 - Cathy Fu
-- [Team Member 3]
+- Alyssa Nuanxin Jin
 - [Team Member 4]
 - [Team Member 5]
 
@@ -66,15 +66,15 @@ Identify actionable steps that can be taken to improve future projects.
 - **Feedback and Suggestions:**
   - Great work, group!
 
-### [Team Member 3]
+### Alyssa Nuanxin Jin
 - **Achievements and Contributions:**
-  -
+  - Have a clearer insight into how to make a good presentation
 - **Challenges Faced:**
-  -
+  - Backend employment
 - **Areas for Improvement:**
-  -
+  - How to document Comments made by fundraisers
 - **Feedback and Suggestions:**
-  -
+  - Very good
 
 ### [Team Member 4]
 - **Achievements and Contributions:**
